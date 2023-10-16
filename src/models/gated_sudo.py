@@ -1,4 +1,11 @@
-# WIP
+"""!
+@brief Gated SuDO-RM-RF model
+
+Gated SuDO-RM-RF model adapted from github.com/etzinis/sudo_rm_rf/
+
+@author Dimitrios Bralios 
+@copyright University of Illinois at Urbana-Champaign
+"""
 
 import torch
 import torch.nn as nn
